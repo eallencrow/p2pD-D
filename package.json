@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eallencrow/p2pD-D/issues"
   },
-  "homepage": "https://github.com/eallencrow/p2pD-D#readme"
+  "homepage": "https://github.com/eallencrow/p2pD-D#readme",
+  "dependencies": {
+    "electron": "^2.0.0"
+  }
 }
